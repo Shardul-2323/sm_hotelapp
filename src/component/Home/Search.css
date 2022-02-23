@@ -1,0 +1,58 @@
+
+.imageContainer{
+    background:url('https://breathetravel.com/wp-content/uploads/2016/02/Breathe-Travel-Background.jpg');
+    border-style:solid;
+    border-color:white;
+    border-width:30px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#logo{
+    text-align:center;
+    color:red;
+    font-weight:bold;
+    font-size:90px;
+    background:white;
+    height:120px;
+    width:120px;
+    margin:auto;
+    border-radius:50%;
+    margin-top:100px;
+    margin-bottom: 80px;
+    box-shadow: 6px 10px 15px black;
+}
+
+.heading{
+    text-align:center;
+    color:white;
+    font-size:50px;
+}
+
+.locationSelector{
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align:center;
+    
+}
+
+.locationDropDown{
+    width:350px;
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none;
+    margin-left: 15px;
+    box-shadow: 6px 10px 15px black;
+    
+}
+
+.restinput{
+    width:400px;
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none;
+    margin-left: 15px;
+    box-shadow: 6px 10px 15px black;
+}

@@ -1,0 +1,8 @@
+<ul className="nav navbar-nav navbar-right">
+                    <li><a href=""><span class="	glyphicon glyphicon-log-in"></span>&nbsp;Login for wokers</a></li>
+                </ul>
+
+
+ <ul>
+                        {this.conditional_menu()}
+                    </ul>
